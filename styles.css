@@ -1,0 +1,26 @@
+.recipe-img {
+    height:auto;
+    width: 500px;
+}
+
+h1,
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 28px;
+}
+
+p, ul, ol {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+}
+
+ul {
+    list-style-type: circle
+}
